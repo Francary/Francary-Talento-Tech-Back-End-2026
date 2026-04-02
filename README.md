@@ -16,3 +16,7 @@
 * Herramientas a utilizar
 * Instalación del software
 
+**CLASE 02 - Introduccion Node JS**
+* Fundamentos de Node Js
+* Diferencias con Javascript en el browser
+* Ejemplos Bloqueante , NO Bloqueante , Promesas
